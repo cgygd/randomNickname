@@ -5,7 +5,7 @@
 
 2. 使用插件
 ```javascript
-var names = require('../index');
+var names = require('randomNickname');
 var s = names.getNickname();
 console.log('得到的人物名字为： ' + s);
 ```
